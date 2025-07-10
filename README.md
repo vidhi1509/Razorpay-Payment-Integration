@@ -1,5 +1,5 @@
 # Razorpay Payment Integration
-Created by: **Saurabh**
+Created by: **Vidhi**
 
 ## Description
 This project demonstrates how to integrate the Razorpay payment gateway in a full-stack application with a Node.js backend and a React frontend.
